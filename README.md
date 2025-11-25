@@ -49,10 +49,15 @@ Graficos
 ## Manual de Usuario 
 
 Paso 1: Instalar y usar  el JDK 23.
+
 Paso 2: Coloque los archivos CSV llamados pacientes_500.csv, inventario_500_inverso.csv y citas_100_casi_ordenadas.csv dentro de una carpeta llamada “data”.
+
 Paso 3: Compile el proyecto para generar los archivos necesarios.
+
 Paso 4: Ejecute el programa principal llamado edu.unl.cc.ed.u2.sorting.SortingDemoGeneral.
+
 Paso 5: El programa procesará automáticamente los datos, aplicará los algoritmos de ordenación y generará los archivos resultados.txt y resultadosTrazas.txt.
+
   
 ## Autores
 ### [Steeven Pardo](https://github.com/Dan1el17)
