@@ -46,7 +46,9 @@ Graficos
 - Selección es el más robusto cuando no conocemos el grado de orden.
 - Burbuja con corte temprano solo es competitivo en casi ordenado.
 
-## Manual de Usuario 
+## Manual de Usuario
+
+## Descargar el  proyecto en .zip 
 
 Paso 1: Instalar y usar  el JDK 23.
 
