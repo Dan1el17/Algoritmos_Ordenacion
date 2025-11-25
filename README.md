@@ -31,15 +31,21 @@ TABLA: Cita por fecha hora citas_100.csv
 <img width="583" height="103" alt="image" src="https://github.com/user-attachments/assets/3748e8db-7466-4391-8034-1083d2ec87e1" />
 
 Graficos 
+
 <img width="868" height="468" alt="image" src="https://github.com/user-attachments/assets/9ed30c11-b26d-4ce9-b405-dcdbf6c38a39" />
+
 <img width="657" height="414" alt="image" src="https://github.com/user-attachments/assets/6a12d17d-1ebf-4b6f-adf3-6fa5ec56e8cc" />
+
 ### Matriz de recomendación
+
 <img width="575" height="512" alt="image" src="https://github.com/user-attachments/assets/4063bc57-ca5e-4679-b862-da7076ca33a1" />
 
 ## Conclusiones
+
 - Inserción es el ganador claro en datos casi ordenados y con duplicados.
 - Selección es el más robusto cuando no conocemos el grado de orden.
 - Burbuja con corte temprano solo es competitivo en casi ordenado.
+- 
 ## Autores
 ### [Steeven Pardo](https://github.com/Dan1el17)
 ### [Darwin Correa](https://github.com/Darwin090)
