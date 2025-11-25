@@ -15,13 +15,21 @@ Este proyecto implementa y compara tres algoritmos clásicos de ordenación —*
 
 ## Resultados 
 TABLA: Pacientes por apellido
+
 <img width="577" height="98" alt="image" src="https://github.com/user-attachments/assets/6de90ac5-ec05-4779-820d-3f22aa089564" />
+
 TABLA: Inventario por Stock
+
 <img width="577" height="112" alt="image" src="https://github.com/user-attachments/assets/daa5503b-dc5c-4110-9d76-fe0254d0f037" />
+
 TABLA: Pacientes por apellido citas_100_casi_ordenadas.csv
+
 <img width="578" height="100" alt="image" src="https://github.com/user-attachments/assets/aa91f0e2-15f8-4bc9-b3d8-a0036d3c26b2" />
+
 TABLA: Cita por fecha hora citas_100.csv
+
 <img width="583" height="103" alt="image" src="https://github.com/user-attachments/assets/3748e8db-7466-4391-8034-1083d2ec87e1" />
+
 Graficos 
 <img width="868" height="468" alt="image" src="https://github.com/user-attachments/assets/9ed30c11-b26d-4ce9-b405-dcdbf6c38a39" />
 <img width="657" height="414" alt="image" src="https://github.com/user-attachments/assets/6a12d17d-1ebf-4b6f-adf3-6fa5ec56e8cc" />
