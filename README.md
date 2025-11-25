@@ -1,4 +1,3 @@
-<img width="575" height="512" alt="image" src="https://github.com/user-attachments/assets/4afb1240-4a20-4eb0-a4db-4217813e4c7f" /># Algoritmos_Ordenacion
 # Comparación Empírica de Algoritmos de Ordenación
 
 Este proyecto implementa y compara tres algoritmos clásicos de ordenación —**BubbleSort**, **InsertionSort** y **SelectionSort**— sobre tres tipos distintos de datasets. El objetivo es analizar su comportamiento empírico en términos de **comparaciones**, **intercambios (swaps)** y **tiempo de ejecución**, utilizando datos representativos de contextos reales.
@@ -14,33 +13,25 @@ Este proyecto implementa y compara tres algoritmos clásicos de ordenación —*
 - pacientes_500.csv → muchos duplicados en apellido/prioridad
 - inventario_500_inverso.csv → orden estrictamente inverso por stock
 
-
-## 2. Código fuente
-- `DatasetGenerator.java` → genera los 4 CSV (ejecutar una sola vez)
-- `SortingBenchmark.java` → algoritmos instrumentados + contadores
-- `Main.java` → carga CSV, ejecuta R=10 corridas, descarta 3, toma mediana
-
-## 3. Resultados obtenidos
-### Tablas comparativas
-(pegar aquí la tabla grande que te di)
-
+## Resultados 
+TABLA: Pacientes por apellido
+<img width="577" height="98" alt="image" src="https://github.com/user-attachments/assets/6de90ac5-ec05-4779-820d-3f22aa089564" />
+TABLA: Inventario por Stock
+<img width="577" height="112" alt="image" src="https://github.com/user-attachments/assets/daa5503b-dc5c-4110-9d76-fe0254d0f037" />
+TABLA: Pacientes por apellido citas_100_casi_ordenadas.csv
+<img width="578" height="100" alt="image" src="https://github.com/user-attachments/assets/aa91f0e2-15f8-4bc9-b3d8-a0036d3c26b2" />
+TABLA: Cita por fecha hora citas_100.csv
+<img width="583" height="103" alt="image" src="https://github.com/user-attachments/assets/3748e8db-7466-4391-8034-1083d2ec87e1" />
+Graficos 
+<img width="868" height="468" alt="image" src="https://github.com/user-attachments/assets/9ed30c11-b26d-4ce9-b405-dcdbf6c38a39" />
+<img width="657" height="414" alt="image" src="https://github.com/user-attachments/assets/6a12d17d-1ebf-4b6f-adf3-6fa5ec56e8cc" />
 ### Matriz de recomendación
 <img width="575" height="512" alt="image" src="https://github.com/user-attachments/assets/4063bc57-ca5e-4679-b862-da7076ca33a1" />
 
-
-
-
-
-## 5. Conclusiones
+## Conclusiones
 - Inserción es el ganador claro en datos casi ordenados y con duplicados.
 - Selección es el más robusto cuando no conocemos el grado de orden.
 - Burbuja con corte temprano solo es competitivo en casi ordenado.
-
-
-
-
-
-
 ## Autores
 ### [Steeven Pardo](https://github.com/Dan1el17)
 ### [Darwin Correa](https://github.com/Darwin090)
