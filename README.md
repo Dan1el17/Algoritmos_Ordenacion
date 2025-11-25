@@ -1,3 +1,6 @@
+
+[Taller_06_GrupoD.pdf](https://github.com/user-attachments/files/23737081/Taller_06_GrupoD.pdf)
+
 # Comparación Empírica de Algoritmos de Ordenación
 
 Este proyecto implementa y compara tres algoritmos clásicos de ordenación —**BubbleSort**, **InsertionSort** y **SelectionSort**— sobre tres tipos distintos de datasets. El objetivo es analizar su comportamiento empírico en términos de **comparaciones**, **intercambios (swaps)** y **tiempo de ejecución**, utilizando datos representativos de contextos reales.
